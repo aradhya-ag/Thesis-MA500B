@@ -1,0 +1,5 @@
+model	period	mape
+lstm	pre-shock	19.798
+lstm	shock	32.942
+gru	pre-shock	18.981
+gru	shock	37.501
